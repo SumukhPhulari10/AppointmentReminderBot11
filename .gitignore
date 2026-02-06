@@ -1,0 +1,23 @@
+# Python / Flask
+server/__pycache__/
+server/*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+
+# Database
+server/appointments.db
+*.sqlite3
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Brain/Artifacts (if inside project, though usually outside in .gemini)
+brain/
