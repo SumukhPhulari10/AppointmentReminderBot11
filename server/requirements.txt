@@ -3,3 +3,4 @@ flask-cors
 twilio
 python-dotenv
 dateparser
+gunicorn
